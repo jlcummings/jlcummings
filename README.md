@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Justin L Cummings</h1>
 <h3 align="center">A zombie engineer from the United States</h3>
 
-- 🔭 I’m currently working on a fork of [OrchardCore](https://github.com/OrchardCMS/OrchardCore) 
-
+- 🔭 I’m currently working on:
+  - my own home-baked WSL2 backup automation, [wsl2-backup](https://github.com/jlcummings/wsl2-backup)
+  - a fork of the batteries-included authenticated http proxy [traefik-docker-authelia](https://github.com/jlcummings/traefik-proxy)
+  - a fork of [OrchardCore](https://github.com/OrchardCMS/OrchardCore) 
+  
 - 🌱 I’m currently learning **[net5](https://docs.microsoft.com/en-us/dotnet/core/dotnet-five) and self-hosted services fronted by [traefik](https://traefik.io/traefik/) in a container oriented way.**
 
 - 💬 Ask me about **migrations, fixing broken things, and willingness to entertain unconventional ideas.**
